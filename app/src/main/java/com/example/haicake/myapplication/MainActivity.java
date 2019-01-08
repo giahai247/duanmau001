@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
 
+        // abc
         btnOK = (Button) findViewById(R.id.btnOK);
 
     }
